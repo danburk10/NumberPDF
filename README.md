@@ -5,4 +5,7 @@
 
  see target/NumberPDF-1.0-SNAPSHOT-jar-with-dependencies-jdk17.jar for openJDK version 17 (debian)
 
+ # Compile
+ built w/ Netbeans and Maven. 
+
 
