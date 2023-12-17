@@ -3,6 +3,6 @@
  
  see target/NumberPDF-1.0-SNAPSHOT-jar-with-dependencies.jar for pre-built binary.  
 
- see target/NumberPDF-1.0-SNAPSHOT-jar-with-dependencies-jdk17.jar for JDK version 17 (debian)
+ see target/NumberPDF-1.0-SNAPSHOT-jar-with-dependencies-jdk17.jar for openJDK version 17 (debian)
 
 
